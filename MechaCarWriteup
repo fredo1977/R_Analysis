@@ -1,1 +1,5 @@
 Completing a multi-regression vehicle.length to mpg, we are able to note that these two variables do not provide a random amount of variance. The slope is not zero, it is positive. This is becuase the data tells us that the greater length of the vehicle, the greater the mpg. This linear model does not predict prototypes effectively as ther are other factors/variables that are not accounted for when calculating mpg. 
+
+The MechaCar suspension coils variance is 62.29. The current manufacturing data does meet the design specification of it being under 100. 
+
+Alternatively, we can perform other statistical analysis to compare MechaCars to similar competition. The study would be that the greater that mpg, the greater the sales. The regression analysis would be to compare similar parts. weight, length, AWD, etc. Next we would compare the similar models mpg_data to review for their average. By reviewing this data, we would then be able to determine the projected sales for MechaCars and their success. 
